@@ -3,6 +3,6 @@
   display: none;
 }
 
-#wall {
-  z-index: 100;
+#wall #tag-2 {
+ display: none;
 }
