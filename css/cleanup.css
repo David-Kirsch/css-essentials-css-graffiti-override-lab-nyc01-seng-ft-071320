@@ -14,3 +14,7 @@
 #wall .parent {
   display: none;
 }
+
+#wall #tag-6 {
+  display: none;
+}
